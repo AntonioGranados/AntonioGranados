@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Antonio Granados 👋👨‍💻
 
-<!--
-**AntonioGranados/AntonioGranados** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![me](https://user-images.githubusercontent.com/33869261/101226042-27a84980-3661-11eb-8975-757280198fa6.png)
 
-Here are some ideas to get you started:
+I'm a System Engineer with skills in frontend web development. Passionate about technology, digital transformation and constant learning. I like to improve myself every day, and I try to make the most of all digital tools to learn new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some Technologies Some technologies that I enjoy working and learning are Html5, Css3, JavaScript, Angular, NodeJs and Ionic.
+
+### You can find me 🌍:
+- [Twitter](https://www.twitter.com/antoniogranado2)
+- [Instagram](https://www.instagram.com/antoniogranados23)
+- [Facebook](https://www.facebook.com/antoniojose.granadosmantilla)
+- [Linkedin](https://www.linkedin.com/in/antonio-jose-granados-mantilla-34a770189/)
